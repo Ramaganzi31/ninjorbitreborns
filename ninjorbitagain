@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ramaganzi31/ninjorbitreborns/main/espsource"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ramaganzi31/ninjorbitreborns/main/ninjorbitreborn"))()
 local Watermark = library:CreateWatermark("NinjOrbitREBORN | {game} | {fps} ")
 local Window = library:CreateWindow("NinjOrbitREBORN", Vector2.new(492, 588), Enum.KeyCode.Insert)
 
